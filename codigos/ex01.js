@@ -1,0 +1,1 @@
+console.log( "Alexandre Rosa Junior\n Campinas - SP \n Construir uma carreira de sucesso em tecnologia é o meu objetivo principal, e estou determinado a alcançar esse objetivo com dedicação e aprendizado contínuo\n" )
